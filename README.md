@@ -1,6 +1,6 @@
-# React + TypeScript + Vite
+# Villa Soccer Coaching Planner
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I just wanted an app that can help me map out my players onto the field and utilise some basic timers to help me ensure equal game time with substitutes
 
 Currently, two official plugins are available:
 
